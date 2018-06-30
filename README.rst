@@ -1,4 +1,4 @@
-diff-cover |build-status| |coverage-status| |docs-status|
+diff-cover |build-status| |coverage-status| |docs-status| |maintainability|
 =========================================================
 
 Automatically find diff lines that need test coverage.
@@ -287,3 +287,7 @@ Originally created with the support of `edX
     :alt: Documentation Status
     :scale: 100%
     :target: http://diff-cover.readthedocs.org/en/latest/
+
+.. |maintainability| image:: https://api.codeclimate.com/v1/badges/9f46e3087956d8e6fef1/maintainability
+   :target: https://codeclimate.com/github/Shoobx/diff-cover/maintainability
+   :alt: Maintainability
